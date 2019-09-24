@@ -13,3 +13,9 @@ hack-a-thing-1-samschiff-hack1 created by GitHub Classroom
 * Front end
 * npm install
 * npm start
+
+## What I learned ##
+* react native is much more complex than React. Because of the fact that it is for a mobile device, there were many more complexities that I had to deal with to get this to work.
+
+## What didn't work ## 
+* I had a lot of trouble with the pop ups.  Sometimes they wouldn't pop up all the way or close correctly. I think at this point most of them work but every time I test the app it's a toss up.
